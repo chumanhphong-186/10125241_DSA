@@ -135,10 +135,15 @@ class Program
 static void Main()
 {
     Console.OutputEncoding = System.Text.Encoding.UTF8;
-        //Bai1();
-        //Bai2();
-        //Bai3();
-        //Bai4();
-        Bai5();
+ Console.WriteLine("=== Bài 1 ===");
+ Bai1();
+ Console.WriteLine("=== Bài 2 ===");
+ Bai2();
+ Console.WriteLine("=== Bài 3 ===");
+ Bai3();
+ Console.WriteLine("=== Bài 4 ===");
+ Bai4();
+ Console.WriteLine("=== Bài 5 ===");
+ Bai5();
     }
 }
