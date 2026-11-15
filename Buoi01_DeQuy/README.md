@@ -55,5 +55,59 @@ Mảng sau khi sắp xếp tăng dần là:
 
 Nhập số nguyên dương n: 10
 Số Fibonacci thứ 10 là: 55
+=============== CHƯƠNG 2 ===============
+=== Bài 1 ===
+Nhập số đĩa n cho bài toán Tháp Hà Nội: 3
+Chuyển đĩa 1 từ cọc A sang cọc C
+Chuyển đĩa 2 từ cọc A sang cọc B
+Chuyển đĩa 1 từ cọc C sang cọc B
+Chuyển đĩa 3 từ cọc A sang cọc C
+Chuyển đĩa 1 từ cọc B sang cọc A
+Chuyển đĩa 2 từ cọc B sang cọc C
+Chuyển đĩa 1 từ cọc A sang cọc C
+=== Bài 2 ===
+Mảng đã sắp xếp: 2, 5, 8, 12, 16, 23, 38, 56, 72, 91
+Nhập số cần tìm: 23
+Tìm thấy 23 tại vị trí index 5
+=== Bài 3 ===
+Nhập số nguyên dương n cần kiểm tra: 17
+Giải thuật 1 (Cơ bản): 17 là số nguyên tố.
+Giải thuật 2 (Cải tiến): 17 là số nguyên tố.
+=== Bài 4 ===
+Nhập số N để liệt kê số hoàn hảo nhỏ hơn N: 500
+Giải thuật 1 (Cơ bản) - Các số hoàn hảo là: 6 28 496 
+Giải thuật 2 (Cải tiến) - Các số hoàn hảo là: 6 28 496 
+=== Bài 5 ===
+Nhập số nguyên dương n để tìm Fibonacci thứ n: 10
+Giải thuật 1 (Đệ quy trực tiếp): F(10) = 55
+Giải thuật 2 (Lặp): F(10) = 55
+
+=============== CHƯƠNG 3 ===============
+=== Bài 1 ===
+Nhập n cho Bài 1: 5
+S(5) = 15
+=== Bài 2 ===
+Nhập n cho Bài 2: 4
+S(4) = 30
+=== Bài 3 ===
+Nhập n cho Bài 3: 3
+S(3) = 1.8333333333333333
+=== Bài 4 ===
+Nhập cơ số x cho Bài 4: 2
+Nhập số mũ n cho Bài 4: 6
+S(2, 6) = 64
+=== Bài 5 ===
+Nhập n cho Bài 5: 100
+Ước số lẻ lớn nhất của 100 là: 25
+=== Bài 6 ===
+Nhập a cho Bài 6: 24
+Nhập b cho Bài 6: 36
+Ước chung lớn nhất của 24 và 36 là: 12
+=== Bài 7 ===
+Nhập n cho Bài 7 (số nguyên dương): 12345
+Số chữ số của 12345 là: 5
+=== Bài 8 ===
+Nhập n cho Bài 8: 3
+S(3) = 1.7121307612301915
 
 ```
